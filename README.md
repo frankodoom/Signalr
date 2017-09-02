@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/frankodoom/Signalr.svg)](https://jitpack.io/#frankodoom/Signalr)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/da00eb00f699416593b2e1de3b0c6095)](https://www.codacy.com/app/frankodoom/Signalr?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=frankodoom/Signalr&amp;utm_campaign=Badge_Grade)
 
 
 # Signalr
