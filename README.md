@@ -11,15 +11,19 @@ Get Up and running with Signalr Java SDK for Android. This is a compiled version
 
 Add Jitpack Repository to your build file
 
-`allprojects {
+```java
+allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}`
+	}
+```
 
 Add the dependency to gradle and Sync
 
-`dependencies {
+```java
+dependencies {
 	        compile 'com.github.frankodoom:Signalr:1.0.0'
-	}`
+	}
+```
